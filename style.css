@@ -197,8 +197,8 @@ section{
 .home-img img{
     position: absolute;
     bottom: 0;
-    right: 100px;
-    width: 62%;
+    right: 20px;
+    width: 90%;
     pointer-events: none;
 
 }
